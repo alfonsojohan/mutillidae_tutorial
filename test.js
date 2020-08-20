@@ -1,3 +1,3 @@
 <script type="text/javascript">
-print('Hello world!')
+document.write('Hello from my Github account - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx!');
 </script>
